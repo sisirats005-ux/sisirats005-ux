@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Sisira TS
 
-<!--
-**sisirats005-ux/sisirats005-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & ML Engineering Student passionate about building AI-powered applications, frontend experiences, and automation tools.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* Flask
+* HTML
+* CSS
+* JavaScript
+* AI/ML
+* Frontend Development
+
+## Currently Working On
+
+* AI-powered creative tools
+* Frontend development
+* Automation systems
+* Interactive web applications
+
+## Featured Project
+
+### SmartVision FireGuard
+
+AI-powered fire detection and monitoring dashboard built using Flask, YOLO, and real-time video analysis.
+
+## Interests
+
+* Artificial Intelligence
+* UI/UX Design
+* Creative Technology
+* Automation & Smart Systems
+
+## Connect With Me
+
+* LinkedIn
+
