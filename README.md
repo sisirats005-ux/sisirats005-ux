@@ -2,9 +2,9 @@
 
 # SISIRA TS
 
-### AI & Machine Learning Engineer • Full Stack AI Developer • IBM watsonx.ai • RAG • Computer Vision
+### AI & Machine Learning Engineer • Full Stack AI Developer • IBM watsonx.ai • IBM Granite • RAG • Computer Vision
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1500&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+AI+Applications;IBM+Granite+Developer;Full+Stack+AI+Engineer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1500&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+%26+ML+Engineering+Student;IBM+Granite+Developer;Full+Stack+AI+Developer;Building+Production+Ready+AI+Applications;Always+Learning+Something+New" />
 
 </div>
 
@@ -12,31 +12,30 @@
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="52%" valign="top">
 
 ## About Me
 
-AI & ML Engineering student passionate about building intelligent software using modern AI technologies.
+I'm an AI & Machine Learning Engineering student passionate about building intelligent software using Artificial Intelligence, Agentic AI, Computer Vision, and modern web technologies.
 
-Current interests include
+### Current Interests
 
-• Agentic AI
-
-• Retrieval-Augmented Generation
-
-• IBM Granite Models
-
-• Computer Vision
-
-• Full Stack AI Applications
+- Agentic AI
+- IBM Granite Models
+- Retrieval-Augmented Generation (RAG)
+- Computer Vision
+- Full Stack AI Applications
+- Intelligent Automation
 
 </td>
 
-<td width="50%">
+<td width="48%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sisirats005-ux&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sisirats005-ux&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -44,14 +43,18 @@ Current interests include
 
 ## Technology Stack
 
-<img src="https://skillicons.dev/icons?i=python,flask,html,css,javascript,git,github,vscode,docker,figma"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,git,github,vscode,docker,figma"/>
+
+</p>
 
 ---
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## AI Technologies
 
@@ -59,7 +62,7 @@ Current interests include
 - IBM Granite Foundation Models
 - LangFlow
 - Retrieval-Augmented Generation
-- FAISS
+- FAISS Vector Database
 - Machine Learning
 - Deep Learning
 - Computer Vision
@@ -68,7 +71,7 @@ Current interests include
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisirats005-ux&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -81,70 +84,24 @@ Current interests include
 
 # Featured Projects
 
-<table>
-
-<tr>
-
-<td width="33%">
-
-### Interview Trainer Agent
-
-IBM Granite
-
-RAG
-
-ATS Analysis
-
-AI Interview
-
-Analytics Dashboard
-
-</td>
-
-<td width="33%">
-
-### VisionTale
-
-AI Animation Studio
-
-Story Generation
-
-Character Consistency
-
-Video Production
-
-</td>
-
-<td width="33%">
-
-### SmartVision FireGuard
-
-YOLO Detection
-
-Live Monitoring
-
-Real-Time Alerts
-
-Computer Vision
-
-</td>
-
-</tr>
-
-</table>
+| Project | Description |
+|---------|-------------|
+| **Interview Trainer Agent** | AI-powered interview preparation platform using IBM Granite, watsonx.ai, RAG, ATS Resume Analysis, Mock Interviews, Learning Roadmap and Analytics Dashboard. |
+| **VisionTale** | AI animation studio for generating YouTube-ready animated stories with consistent characters and automated workflows. |
+| **SmartVision FireGuard** | Intelligent fire detection and monitoring platform using YOLO, Flask and Computer Vision with real-time alerts. |
 
 ---
 
 ## Current Focus
 
 ```text
-Building Production Ready AI Applications
+Building Production-Ready AI Applications
 
-IBM Granite
+IBM Granite Models
 
 Agentic AI
 
-VisionTale
+VisionTale AI Studio
 
 Frontend Development
 
@@ -177,23 +134,23 @@ Automation Systems
 
 ---
 
-## Connect
+## Connect With Me
 
-Email
+**Email**
 
-```
-sisirats005@gamil.com
-```
-
-LinkedIn
-
-```
-https://linkedin.com/in/https://www.linkedin.com/in/sisirats/
+```text
+sisirats005@gmail.com
 ```
 
-GitHub
+**LinkedIn**
 
+```text
+https://www.linkedin.com/in/sisirats/
 ```
+
+**GitHub**
+
+```text
 https://github.com/sisirats005-ux
 ```
 
@@ -201,6 +158,6 @@ https://github.com/sisirats005-ux
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sisirats005-ux&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sisirats005-ux&style=for-the-badge&color=blue"/>
 
 </div>
