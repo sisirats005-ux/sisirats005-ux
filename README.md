@@ -1,146 +1,206 @@
-# Hi 👋, I'm Sisira TS
+<div align="center">
 
-### AI & ML Engineering Student | Full Stack AI Developer | IBM watsonx.ai & Granite Enthusiast
+# SISIRA TS
 
-I'm passionate about building intelligent AI applications, automation systems, and modern web experiences. I enjoy solving real-world problems using Artificial Intelligence, Retrieval-Augmented Generation (RAG), Computer Vision, and Full Stack Development.
+### AI & Machine Learning Engineer • Full Stack AI Developer • IBM watsonx.ai • RAG • Computer Vision
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1500&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+AI+Applications;IBM+Granite+Developer;Full+Stack+AI+Engineer;Always+Learning+Something+New" />
 
-## 🚀 About Me
-
-- 🎓 B.Tech in Artificial Intelligence & Machine Learning
-- 🤖 Building AI-powered applications using IBM watsonx.ai and Granite Models
-- 💻 Interested in Full Stack Development and Intelligent Automation
-- 🌱 Currently learning Agentic AI, Multi-Agent Systems, Cloud AI, and Advanced RAG
-- 🎯 Goal: Become an AI Engineer building impactful products
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<table>
+<tr>
+<td width="50%">
 
-### Programming Languages
-- Python
-- JavaScript
-- HTML5
-- CSS3
+## About Me
 
-### Frameworks & Libraries
-- Flask
-- Tailwind CSS
-- OpenCV
-- YOLO
+AI & ML Engineering student passionate about building intelligent software using modern AI technologies.
 
-### Artificial Intelligence
+Current interests include
+
+• Agentic AI
+
+• Retrieval-Augmented Generation
+
+• IBM Granite Models
+
+• Computer Vision
+
+• Full Stack AI Applications
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sisirats005-ux&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technology Stack
+
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,javascript,git,github,vscode,docker,figma"/>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## AI Technologies
+
 - IBM watsonx.ai
 - IBM Granite Foundation Models
-- Retrieval-Augmented Generation (RAG)
-- FAISS Vector Database
+- LangFlow
+- Retrieval-Augmented Generation
+- FAISS
 - Machine Learning
 - Deep Learning
 - Computer Vision
+- YOLO
+- OpenCV
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Docker
-- IBM Cloud
-- Figma
+</td>
 
----
+<td width="50%">
 
-## 🔥 Featured Projects
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisirats005-ux&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### 🎯 AI Interview Coach Agent
-An AI-powered interview preparation platform built using IBM watsonx.ai, IBM Granite Models, Flask, and RAG.
+</td>
 
-**Features**
-- ATS Resume Analysis
-- Career Match Analysis
-- AI Mock Interviews
-- Personalized Learning Roadmap
-- Analytics Dashboard
-- PDF Report Generation
+</tr>
+</table>
 
 ---
 
-### 🎬 VisionTale
-An AI-powered animation platform for generating YouTube-ready animated stories with consistent characters and automated production workflows.
+# Featured Projects
+
+<table>
+
+<tr>
+
+<td width="33%">
+
+### Interview Trainer Agent
+
+IBM Granite
+
+RAG
+
+ATS Analysis
+
+AI Interview
+
+Analytics Dashboard
+
+</td>
+
+<td width="33%">
+
+### VisionTale
+
+AI Animation Studio
+
+Story Generation
+
+Character Consistency
+
+Video Production
+
+</td>
+
+<td width="33%">
+
+### SmartVision FireGuard
+
+YOLO Detection
+
+Live Monitoring
+
+Real-Time Alerts
+
+Computer Vision
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-### 🔥 SmartVision FireGuard
-A real-time fire detection and monitoring system using YOLO, Flask, and Computer Vision.
+## Current Focus
 
-**Features**
-- Real-time Fire Detection
-- Live Video Analysis
-- Dashboard Monitoring
-- Alert Generation
+```text
+Building Production Ready AI Applications
 
----
+IBM Granite
 
-## 🌱 Currently Working On
+Agentic AI
 
-- Agentic AI Applications
-- VisionTale AI Animation Studio
-- AI Interview Coach Platform
-- AI Automation Tools
-- Frontend Development
-- Computer Vision Projects
+VisionTale
+
+Frontend Development
+
+Automation Systems
+```
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sisirats005-ux&show_icons=true&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=sisirats005-ux&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sisirats005-ux&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sisirats005-ux&theme=tokyonight)
+</div>
 
 ---
 
-## 🏆 Skills
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,git,github,vscode,docker,figma" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=sisirats005-ux&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
----
-
-## 🎯 Areas of Interest
-
-- Artificial Intelligence
-- Agentic AI
-- Machine Learning
-- Computer Vision
-- Generative AI
-- Full Stack Development
-- Automation Systems
-- UI/UX Design
+</div>
 
 ---
 
-## 📈 Current Focus
+<div align="center">
 
-✔ Building Production-Ready AI Applications
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sisirats005-ux&theme=tokyo-night"/>
 
-✔ Learning Advanced AI Agents
-
-✔ Open Source Contributions
-
-✔ Placement Preparation
-
-✔ Developing Real-World Projects
+</div>
 
 ---
 
-## 📫 Connect With Me
+## Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-- 📧 Email: tl23btai0065@vidyaacademy.ac.in
+Email
+
+```
+sisirats005@gamil.com
+```
+
+LinkedIn
+
+```
+https://linkedin.com/in/https://www.linkedin.com/in/sisirats/
+```
+
+GitHub
+
+```
+https://github.com/sisirats005-ux
+```
 
 ---
 
-⭐ *"Building intelligent software that solves real-world problems through AI."*
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sisirats005-ux&color=blue&style=for-the-badge"/>
+
+</div>
