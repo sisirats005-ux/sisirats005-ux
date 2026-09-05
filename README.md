@@ -28,7 +28,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm an **AI/ML Engineering student** passionate about building practical AI-powered products and intelligent automation systems.
 
@@ -52,52 +52,52 @@ open_to:           [Internships, Entry-level roles, Collaborative projects]
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 📊 CampaignIQ
+### CampaignIQ
 
 AI-powered customer engagement & campaign automation platform built around segmentation, campaign intelligence, automation, analytics, and human-in-the-loop approval workflows.
 
 `React` `Next.js` `TypeScript` `Tailwind` `Node.js` `Express` `Firebase` `LLM/AI`
 
-**[🔗 View Project](https://github.com/sisirats005-ux/campaign-iq)**
+**[View Project](https://github.com/sisirats005-ux/campaign-iq)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 AI Interview Trainer Agent
+### AI Interview Trainer Agent
 
 AI-powered interview prep platform with resume analysis, career matching, RAG-based assistance, and mock interview capabilities.
 
 `Python` `Flask` `IBM Granite` `RAG` `Tailwind CSS`
 
-**[🔗 View Project](https://github.com/sisirats005-ux/InterviewTrainerAgent)**
+**[View Project](https://github.com/sisirats005-ux/InterviewTrainerAgent)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💬 BrandPulse AI
+### BrandPulse AI
 
 End-to-end NLP sentiment analysis app comparing traditional ML with deep learning approaches for customer sentiment analysis.
 
 `Python` `Scikit-learn` `TensorFlow` `NLP` `TF-IDF` `BiLSTM`
 
-**[🔗 View Project](https://github.com/sisirats005-ux/BrandPulse-AI-Sentiment-Analysis)**
+**[View Project](https://github.com/sisirats005-ux/BrandPulse-AI-Sentiment-Analysis)**
 
 </td>
 <td width="50%" valign="top">
 
-### ✨ More Coming Soon
+### More Coming Soon
 
 Actively building and shipping new AI-driven projects — check back for updates, or follow along on GitHub.
 
-**[🔗 View Profile](https://github.com/sisirats005-ux)**
+**[View Profile](https://github.com/sisirats005-ux)**
 
 </td>
 </tr>
@@ -105,7 +105,7 @@ Actively building and shipping new AI-driven projects — check back for updates
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <div align="center">
 
@@ -117,33 +117,33 @@ Actively building and shipping new AI-driven projects — check back for updates
 
 | Category | Skills |
 |---|---|
-| 💻 **Languages** | `Python` `TypeScript` `JavaScript` |
-| 🤖 **AI / Machine Learning** | `TensorFlow` `PyTorch` `Scikit-learn` `Pandas` `OpenCV` |
-| ✨ **AI Focus Areas** | Generative AI · LLMs · RAG · Agentic AI · AI Automation · NLP · Deep Learning |
-| 🎨 **Frontend** | `React` `Next.js` `TypeScript` `HTML5` `CSS3` `Tailwind CSS` |
-| ⚙️ **Backend** | `Node.js` `Express` `Flask` |
-| 🗄️ **Databases & Cloud** | `Firebase` `MongoDB` `MySQL` `Google Cloud` |
-| 🧰 **Tools** | `Git` `Docker` `Postman` `Figma` |
+| **Languages** | `Python` `TypeScript` `JavaScript` |
+| **AI / Machine Learning** | `TensorFlow` `PyTorch` `Scikit-learn` `Pandas` `OpenCV` |
+| **AI Focus Areas** | Generative AI · LLMs · RAG · Agentic AI · AI Automation · NLP · Deep Learning |
+| **Frontend** | `React` `Next.js` `TypeScript` `HTML5` `CSS3` `Tailwind CSS` |
+| **Backend** | `Node.js` `Express` `Flask` |
+| **Databases & Cloud** | `Firebase` `MongoDB` `MySQL` `Google Cloud` |
+| **Tools** | `Git` `Docker` `Postman` `Figma` |
 
 ---
 
-## 📚 Current Learning
+## Current Learning
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-- 🧬 Generative AI & LLM application development
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🤖 Agentic AI & tool calling
-- 🔗 LangChain & LangGraph
+- Generative AI & LLM application development
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI & tool calling
+- LangChain & LangGraph
 
 </td>
 <td width="50%" valign="top">
 
-- ⚡ AI workflow automation
-- 🏗️ Full-stack AI application architecture
-- ☁️ Cloud deployment & scalable AI systems
+- AI workflow automation
+- Full-stack AI application architecture
+- Cloud deployment & scalable AI systems
 
 </td>
 </tr>
@@ -151,18 +151,15 @@ Actively building and shipping new AI-driven projects — check back for updates
 
 ---
 
-## 🎯 What I'm Building
+## What I'm Building
 
 > My goal is to build **production-oriented AI applications** that combine machine learning, LLMs, intelligent agents, automation, and modern web technologies — systems where AI can understand information, make decisions, use tools, automate workflows, and collaborate with humans when approval is required.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-
-<img src="./generated/overview.svg" width="48%" />
-<img src="./generated/languages.svg" width="48%" />
 
 <br/>
 
@@ -170,7 +167,9 @@ Actively building and shipping new AI-driven projects — check back for updates
 
 </div>
 
-## 🤝 Connect With Me
+---
+
+## Connect With Me
 
 <div align="center">
 
